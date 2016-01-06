@@ -1,3 +1,4 @@
+//import the necessary files
 import processing.video.*;
 Movie myMovie;
 Movie myMovie2;
@@ -7,6 +8,7 @@ Movie myMovie5;
 Movie myMovie6;
 Movie myMovie7;
 
+//music imports
 import ddf.minim.*;
 Minim minim;
 //Intro Song
@@ -30,6 +32,7 @@ AudioPlayer player9;
 //Menu Switches
 AudioPlayer player10;
 
+//imports the images
 PImage back0,back1,back2,back3,back4;
 PImage die1a,die2a,die3a,die4a,die5a,die6a;
 PImage die1b,die2b,die3b,die4b,die5b,die6b;
