@@ -141,6 +141,7 @@ size(650,500);
 myMovie = new Movie(this, "introMovie.mp4");
 myMovie.loop();
 
+//Load mp4 files to play movies
 myMovie2 = new Movie(this, "lvl1.mp4");
 myMovie3 = new Movie(this, "instructions.mp4");
 myMovie4 = new Movie(this, "lvl2.mp4");
