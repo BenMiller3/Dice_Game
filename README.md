@@ -1,7 +1,7 @@
 # Dice_Game
 Processing game with a twist on the classic game of craps. Added betting and levels to get past. Good game to play for a short while
 
---- How to play Dice ---
+--- How to try Dice for yourself ---
 
 1. Download the assets and code here: https://www.dropbox.com/s/4lr1tlo1ml1gstn/Dice.zip?dl=0
  
