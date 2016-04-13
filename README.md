@@ -1,4 +1,4 @@
-# Dice_Game
+# Dice
 Processing game with a twist on the classic game of craps. 
 Beat your friends and take calculated risks on your way to dice stardom.
 
